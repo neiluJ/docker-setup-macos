@@ -1,3 +1,6 @@
 [submodule "d4m-nfs"]
 	path = d4m-nfs
 	url = git@github.com:IFSight/d4m-nfs.git
+[submodule "ezdocker-stack"]
+	path = ezdocker-stack
+	url = git@github.com:kaliop/ezdocker-stack.git
