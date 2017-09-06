@@ -1,0 +1,5 @@
+/Users:/Users
+/Volumes:/Volumes
+/private:/private
+/mnt/neiluj:/mnt/neiluj
+/tmp:/tmp
