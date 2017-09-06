@@ -1,0 +1,3 @@
+[submodule "d4m-nfs"]
+	path = d4m-nfs
+	url = git@github.com:IFSight/d4m-nfs.git
